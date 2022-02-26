@@ -1,0 +1,7 @@
+.grid-image {
+    cursor: pointer;
+}
+
+.selected {
+    filter: brightness(0.2);
+}
